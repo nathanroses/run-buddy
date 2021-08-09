@@ -1,6 +1,18 @@
+/* Style Applies To The Header*/
+
+
+/* Applies to ALL*/
+
+     *{
+       margin: 0%;
+      padding: 0%;
+}
+
+
+
 
   body{
-     /* Trainers Text   */
+     
 
        font-family: Arial, Helvetica, sans-serif;
         color: #39a6b2;
@@ -8,15 +20,68 @@
 
 
    header{
-    /* Style Applies To The Header*/
+      
+    padding: 5px 35px;
+    background-color: #39a6b2;
+    
+
+}
+    
+
+  
+     header h1 {
+
+          font-weight: bold;
+          font-size: 36px;
+          color: #fce138;
+          margin: 0%;
+          display: inline;
+
+       }
+ 
+   
+   
+       header a{
+
+        color: #fce138;
+        text-decoration: none;
 
 
-        padding: 20px 35px;
-        background-color: #39a6b2;
+
+
+    }
+
+
+    
+
+
+          header nav {
+                 
+                float: right;
+                margin: 7px 0;
+
+
+
+          }
+
+
+          header nav ul li {
+                 
+                 display: inline;
+
+          }
  
 
- }
-
-
+          header nav ul li a{
+                     
+                  margin: 0 30px;
+                font-size: lighter;
+                 font-size: 22px;
+          }
 
  
+
+ 
+
+     
+
