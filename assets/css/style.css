@@ -100,6 +100,7 @@
               bottom: 120px;
               right: 140px;
 }
+     
          section{
                padding: 60px;
          }
@@ -151,6 +152,7 @@
         margin: auto 0;
       }
       
+    
       .steps {
           text-align: center;
           background: #fce138;
@@ -167,10 +169,12 @@
             border-bottom: 3px solid;
       }
 
+    
       .primary-border{
             border-color: #fce138;
       }
        
+   
       .secondary-border{
             border-color: #39a6b2;
       }
@@ -199,7 +203,31 @@
              font-size: 38px;
        }
        
+       .trainers{
+             text-align: center;
+       }
+
+       .trainer {
+             width: 900px;
+             margin: 0 auto 30px auto;
+             background: #024e76;
+             color: #fce138;
+             overflow: auto;
+       }
+
+      
+       .trainer img{
+             width: 35%;
+             float: left;
+       }
        
+       
+       .trainer-bio {
+             padding: 35px;
+             float: left;
+             width: 65%;
+             text-align: center;
+       }
        
        
        
