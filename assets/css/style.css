@@ -148,7 +148,7 @@
         color: #39a6b2;
         width: 80%;
         font-size: 20px;
-
+        display: -webkit-inline-box;
         margin: auto 0;
       }
       
@@ -321,6 +321,8 @@
       border-color: #39a6b2;
       
 }
+
+
     
     
     
@@ -328,8 +330,11 @@
     
     
     
-    
-      footer{
+   
+
+/* Footer Elements Bottom of Main Page */
+  
+         footer{
                 
                 background-color: #fce138;
                 width: 100%;
