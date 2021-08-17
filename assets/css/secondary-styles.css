@@ -17,11 +17,11 @@
     font-style: oblique;
 }
 
-body{
-    width: 80%;
-    display: inline;
+.secondary-content{
+    max-width: 80%;
+    margin: 0 auto;
     color: #024e76;
-    text-align: center;
+
 }
 
 h3{
@@ -37,6 +37,7 @@ p{
 
 .secondaryul{
     margin: 15px 20px 15px 20px;
+    color: #39a6b2;
 }
 
 .secondaryli{
