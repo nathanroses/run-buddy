@@ -12,3 +12,5 @@ https://nathanroses.github.io/run-buddy/
 
 ## Contribution
 Made with Care by Nathan Rose
+
+### &copy; Run Buddy, INC
