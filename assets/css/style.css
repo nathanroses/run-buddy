@@ -25,6 +25,9 @@
     padding: 3px 25px;
     background-color: #39a6b2;
     
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
 
 }
     
@@ -36,7 +39,8 @@
           font-size: 36px;
           color: #fce138;
           margin: 0%;
-          display: inline;
+       
+          
 
        }
  
@@ -57,9 +61,10 @@
 
 
           header nav {
-                 
-                float: right;
+            
                 margin: 7px 4px;
+               
+                
 
 
 
