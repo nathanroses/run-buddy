@@ -399,7 +399,7 @@
 
     @media screen and (max-width: 575px) {
      header h1{
-       /* this will be applied on any screen smaller than 575px */
+       /* this will be applied on any screen smaller than 575px; */
       
      }
       
