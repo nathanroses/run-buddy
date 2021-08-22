@@ -160,7 +160,7 @@
     /* SECTION TITLE STYLES START */
     .section-title {
       font-size: 48px;
-      border-bottom: 3px solid;
+      border-bottom: 3px solid; 
       color: #024e76;
       padding-bottom: 20px;
       text-align: center;
@@ -371,4 +371,36 @@
 
     .flex-row {
       display: flex;
+    }
+
+
+    /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
+
+    @media screen and (max-width: 980px) {
+
+      header h1 a {
+        /* this will be applied on any screen smaller than 900px*/
+        
+      }
+      
+    }
+
+    /* MEDIA QUERY FOR TABLETS AND SMALLER */
+
+    @media screen and (max-width: 768px){
+      header h1 {
+        /* this will be applied on any screen between 768 and 575 px */
+       
+      }
+      
+    }
+
+    /* MEDIA QUERY FOR MOBILE PHONES AND SMALLER */
+
+    @media screen and (max-width: 575px) {
+     header h1{
+       /* this will be applied on any screen smaller than 575px */
+      
+     }
+      
     }
