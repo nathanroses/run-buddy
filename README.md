@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Run Buddy, Inc
+=======
+# Run Buddy Inc.
+>>>>>>> main
 
 ## Purpose
 A website that offers fitness training services.
@@ -13,4 +17,4 @@ https://nathanroses.github.io/run-buddy/
 ## Contribution
 Made with Care by Nathan Rose
 
-### &copy; Run Buddy, INC
+### &copy; Run Buddy, INC 2021
