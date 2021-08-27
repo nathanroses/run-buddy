@@ -10,7 +10,7 @@ A website that offers fitness training services.
 ## Website
 https://nathanroses.github.io/run-buddy/
 
-## Contribution
+it## Contribution
 Made with Care by Nathan Rose
 
-### &copy; Run Buddy, INC
+### &copy; Run Buddy, INC 2021
